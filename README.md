@@ -1,5 +1,5 @@
 # python_foundations
-Module 1 of Makers
+**Module 1 of Makers**
 
 In Module 1 of the Makers course, I achieved the following key skills and accomplishments:
 
